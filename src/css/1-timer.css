@@ -27,6 +27,7 @@ body {
 #datetime-picker:disabled {
   border-color: #808080;
   color: #808080;
+  cursor: not-allowed;
 }
 
 #datetime-picker:hover,
